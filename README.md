@@ -1,0 +1,2 @@
+# SAMParser
+Parse SAM file
