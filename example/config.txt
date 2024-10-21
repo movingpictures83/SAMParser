@@ -1,0 +1,2 @@
+Prefix plugins/SAMParser/example/
+Plugin SAMParser inputfile parameters.samparser.txt outputfile SR.fa.cps.samParser.log

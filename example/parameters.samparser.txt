@@ -1,0 +1,5 @@
+LR_filename	LR.fa.cps
+SR_filename	SR.fa
+sam_filename	SR.fa.cps.sam
+nav_filename	SR.fa.cps.nav
+one_line_per_alignment	T
